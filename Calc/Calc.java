@@ -1,3 +1,5 @@
+//Реализовать простой калькулятор
+
 package Calc;
 
 import java.util.Scanner;
